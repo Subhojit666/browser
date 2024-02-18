@@ -30,7 +30,7 @@ export default function SearchHeader() {
           Sign in
         </button>
       </div>
-      <SearchHeaderOptions/>
+      <SearchHeaderOptions />
     </header>
   );
 }
